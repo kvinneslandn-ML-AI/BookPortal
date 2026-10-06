@@ -167,7 +167,7 @@ i18n.use(initReactI18next).init({
         "Password is required": "Şifre gerekli",
         "Redirecting...": "Yönlendiriliyor...",
         "Log in failed...": "Giriş BAŞARISIZ...",
-        "Log In": "Giriş Yap",
+        "Log In": "Nates login page",
         "Sign up failed...": "Kayıt işlemi BAŞARISIZ...",
         "Author updated!": "Yazar güncellendi!",
         "User updated!": "Kullanıcı güncellendi!",
